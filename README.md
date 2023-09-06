@@ -8,7 +8,7 @@
 
 
 ### Actividades  
-- 🔭 Actualmente estoy trabajando en [App de ](enlace app)  
+- 🔭 Actualmente estoy trabajando en [App de Planner-Proyects](https://github.com/DiegoFernandoLojanTN/MERN-GestionProyectos.git)  
   
 
 - 🌱 Actualmente estoy aprendiendo sobre MERN, Angular y Laravel  
