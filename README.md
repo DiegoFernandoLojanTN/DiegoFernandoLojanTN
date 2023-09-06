@@ -17,7 +17,7 @@
 - ❓ Pares puta si preguntas  
   
 
-- 🐶Me gustan los Perros  
+- 🐶 Me gustan los Perros  
   
 
 <br/>  
