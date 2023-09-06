@@ -1,14 +1,10 @@
-<div align="center">
-<img src="https://i.postimg.cc/43ySBccx/Screenshot-20191226-203334-Whats-App.jpg" align="center" style="width: 10%" />
-</div>  
-  
-
-
 
 ### Acerca de mi  
 #### **<div align="center">👋 ¡Hola! Soy Diego (LautishB), un desarrollador independiente de tiempo parcial y estudiante 📖 de Ingeniería en Computación en la Universidad Nacional de Loja - Ecuador, desde el 2020, lo que me ha permitido aprender y explorar nuevas tecnologías 🚀. </div>**  
-  
 
+<div align="center">
+<img src="https://i.postimg.cc/43ySBccx/Screenshot-20191226-203334-Whats-App.jpg" align="center" style="width: 20%" />
+</div>  
 
 
 ### Actividades  
@@ -27,7 +23,7 @@
 <br/>  
 
 
-## My Skill Set  
+## My Skill Set  / Habilidades
 <table><tr><td valign="top" width="33%">
 
 
@@ -86,7 +82,7 @@
 <br/>  
 
 
-## Connect with me  
+## Connect with me / Conectate conmigo
 <div align="center">
 <a href="https://github.com/https://github.com/DiegoFernandoLojanTN" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -115,23 +111,9 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=DiegoFernandoLojanTN&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-
-
-<br />
 
 ----
