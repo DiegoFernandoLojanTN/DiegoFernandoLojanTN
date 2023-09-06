@@ -1,9 +1,7 @@
 <div align="center">
-<img src="[![Screenshot-20191226-203334-Whats-App.jpg](https://i.postimg.cc/43ySBccx/Screenshot-20191226-203334-Whats-App.jpg)](https://postimg.cc/jWVcjLvp)" align="center" style="width: 100%" />
+<img src="https://i.postimg.cc/43ySBccx/Screenshot-20191226-203334-Whats-App.jpg" align="center" style="width: 100%" />
 </div>  
   
-
-
 
 ### Acerca de mi  
 #### **<div align="center">👋 ¡Hola! Soy Diego (LautishB), un desarrollador independiente de tiempo parcial y estudiante 📖 de Ingeniería en Computación en la Universidad Nacional de Loja - Ecuador, desde el 2020, lo que me ha permitido aprender y explorar nuevas tecnologías 🚀. </div>**  
@@ -135,4 +133,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
