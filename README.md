@@ -9,14 +9,13 @@
 
 ### Actividades  
 - 🔭 Actualmente estoy trabajando en una App: [App de Planner-Proyects](https://github.com/DiegoFernandoLojanTN/MERN-GestionProyectos.git)  
-  
+
+- 💼 Aqui puedes ver mi Portafolio: xx.x.x.x
 
 - 🌱 Estoy aprendiendo sobre MERN, Angular y Laravel  
-  
 
 - ❓ Pares puta si preguntas  
   
-
 - 🐶 Me gustan los Perros  
   
 
