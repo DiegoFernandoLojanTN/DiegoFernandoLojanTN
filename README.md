@@ -8,7 +8,7 @@
 
 
 ### Actividades  
-- 🔭 Actualmente estoy trabajando en una App: [App de Planner-Proyects](https://github.com/DiegoFernandoLojanTN/MERN-GestionProyectos.git)  
+- 🔭 Actualmente  
 
 - 💼 Aqui puedes ver mi Portafolio: [PortFolio](https://diegofernandolojantn.github.io/PortfolioLD/)
 
