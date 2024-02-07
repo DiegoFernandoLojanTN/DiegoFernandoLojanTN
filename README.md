@@ -1,6 +1,6 @@
 
 ### Acerca de mi  
-#### **<div align="center">👋 ¡Hola! Soy Diego (LautishB), un desarrollador independiente de tiempo parcial y estudiante 📖 de Ingeniería en Computación en la Universidad Nacional de Loja - Ecuador, desde el 2020, lo que me ha permitido aprender y explorar nuevas tecnologías 🚀. </div>**  
+#### **<div align="center">👋 ¡Hola! Soy Diego (Lautish), un desarrollador independiente de tiempo parcial y estudiante 📖 de Ingeniería en Computación en la Universidad Nacional de Loja - Ecuador, desde el 2020, lo que me ha permitido aprender y explorar nuevas tecnologías 🚀. </div>**  
 
 <div align="center">
 <img src="https://i.postimg.cc/43ySBccx/Screenshot-20191226-203334-Whats-App.jpg" align="center" style="width: 20%" />
@@ -14,7 +14,7 @@
 
 - 🌱 Estoy aprendiendo sobre MERN, Angular y Laravel  
 
-- ❓ Pares puta si preguntas  
+- ❓ ¿Tienes preguntas?
   
 - 🐶 Me gustan los Perros  
   
