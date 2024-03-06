@@ -8,7 +8,7 @@
 
 
 ### Actividades  
-- 🔭 Actualmente estoy realizando un estudio de datos como parte de Data Mining/Machine Learning [Phishing](https://github.com/DiegoFernandoLojanTN/SVM_URLMALISIOSAS_PHISHING.git/) 
+- 🔭 Actualmente estoy realizando un estudio de datos como parte de Data Mining/Machine Learning como: [Phishing](https://github.com/DiegoFernandoLojanTN/SVM_URLMALISIOSAS_PHISHING.git/) 
 
 - 💼 Aqui puedes ver mi Portafolio: [PortFolio](https://diegofernandolojantn.github.io/PortfolioLD/)
 
@@ -38,7 +38,6 @@
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
