@@ -8,7 +8,7 @@
 
 
 ### Actividades  
-- 🔭 Actualmente estoy realizando un estudio de datos como parte de Data Mining/Machine Learning como: [Phishing](https://github.com/DiegoFernandoLojanTN/SVM_URLMALISIOSAS_PHISHING.git/) 
+- 🔭 Actualmente estoy realizando un estudio de datos como parte de Data Mining/Machine Learning como: [MLX](https://github.com/DiegoFernandoLojanTN/MachineLearning_Hub.git/) 
 
 - 💼 Aqui puedes ver mi Portafolio: [PortFolio](https://diegofernandolojantn.github.io/PortfolioLD/)
 
