@@ -81,9 +81,7 @@
 ### Data Science & Machine Learning
 <div align="center"> 
 
-<a href="https://jupyter.org/" target="_blank">
-  <img style="margin: 10px" src="https://jupyter.org/assets/main-logo.svg" alt="JupyterLab" height="50" />
-</a>
+
 <a href="https://numpy.org/" target="_blank">
   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="NumPy" height="50" />
 </a>  
@@ -101,12 +99,6 @@
 </a>  
 <a href="https://www.spyder-ide.org/" target="_blank">
   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" alt="Spyder" height="50" />
-</a>
-<a href="https://www.kaggle.com/" target="_blank">
-  <img style="margin: 10px" src="https://www.kaggle.com/static/images/logos/kaggle-logo.svg" alt="Kaggle" height="50" />
-</a>
-<a href="https://pjreddie.com/darknet/yolo/" target="_blank">
-  <img style="margin: 10px" src="https://raw.githubusercontent.com/AlexeyAB/darknet/master/doc/yolo-logo.png" alt="YOLO" height="50" />
 </a>
 
 </div>
