@@ -1,6 +1,6 @@
 
 ### Acerca de mi  
-#### **<div align="center">👋 ¡Hola! Soy Diego (Lautish), un desarrollador independiente de tiempo parcial y estudiante 📖 de Ingeniería en Computación en la Universidad Nacional de Loja - Ecuador, desde el 2020, lo que me ha permitido aprender y explorar nuevas tecnologías 🚀. </div>**  
+#### **<div align="center">👋 ¡Hola! Soy Diego Fernando Loján (Lautish), un desarrollador independiente especializado en el análisis de datos y el aprendizaje automático. Actualmente, soy estudiante de Ingeniería en Computación en la Universidad Nacional de Loja - Ecuador desde 2020. A lo largo de mi formación, he adquirido experiencia en diversas tecnologías y metodologías de desarrollo de software, contribuyendo a proyectos innovadores y explorando nuevas soluciones tecnológicas 🚀. </div>**  
 
 <div align="center">
 <img src="https://i.postimg.cc/43ySBccx/Screenshot-20191226-203334-Whats-App.jpg" align="center" style="width: 20%" />
@@ -12,16 +12,19 @@
 
 - 💼 Aqui puedes ver mi Portafolio: [PortFolio](https://diegofernandolojantn.github.io/PortfolioLD/)
 
-- 🌱 Estoy aprendiendo sobre Tailwind CSS, TensorFlow...
+- 🕹️ Me gusta jugar League of Legends como usuario (Lautish)
   
-- 🐶 Me gustan los Perros  
+- 🐶 Me gustan los Perros
   
+- 💡 Desarrollo proyectos personales y colaboro en proyectos de código abierto para contribuir a la comunidad.
 
+- 👨‍🏫 Doy tutorías y mentorías a otros estudiantes interesados en programación y tecnologías emergentes.
+  
 <br/>  
 
 
 ## My Skill Set  / Habilidades
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="25%">
 
 
 
@@ -80,7 +83,18 @@
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
 </div>
 
-
+### Data Science & Machine Learning
+<div align="center"> 
+ <a href="https://jupyter.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jupyterlab.png" alt="JupyterLab" height="50" /></a>
+  <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/numpy.svg" alt="NumPy" height="50" /></a>  
+  <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pandas.svg" alt="Pandas" height="50" /></a>  
+  <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scikit_learn.svg" alt="Scikit-Learn" height="50" /></a>  
+  <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>
+  <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" /></a>  
+  <a href="https://www.spyder-ide.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/spyder.png" alt="Spyder" height="50" /></a>
+  <a href="https://www.kaggle.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kaggle.png" alt="Kaggle" height="50" /></a>
+  <a href="https://pjreddie.com/darknet/yolo/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/yolo.svg" alt="YOLO" height="50" /></a>
+</div>
 
 </td></tr></table>  
 
