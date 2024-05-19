@@ -81,8 +81,8 @@
 ### Data Science & Machine Learning
 <div align="center"> 
 
-  <a href="https://jupyter.org/" target="_blank">
-  <img style="margin: 10px" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/jupyter_badge.svg" alt="JupyterLab" height="50" />
+<a href="https://jupyter.org/" target="_blank">
+  <img style="margin: 10px" src="https://jupyter.org/assets/main-logo.svg" alt="JupyterLab" height="50" />
 </a>
 <a href="https://numpy.org/" target="_blank">
   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="NumPy" height="50" />
