@@ -26,8 +26,6 @@
 ## My Skill Set  / Habilidades
 <table><tr><td valign="top" width="25%">
 
-
-
 ### Frontend  
 <div align="center">  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
@@ -44,8 +42,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -66,8 +62,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 <div align="center">  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
@@ -75,7 +69,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a> 
-  <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
 <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
@@ -85,18 +79,18 @@
 
 ### Data Science & Machine Learning
 <div align="center"> 
- <a href="https://jupyter.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jupyterlab.png" alt="JupyterLab" height="50" /></a>
-  <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/numpy.svg" alt="NumPy" height="50" /></a>  
-  <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pandas.svg" alt="Pandas" height="50" /></a>  
-  <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scikit_learn.svg" alt="Scikit-Learn" height="50" /></a>  
-  <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>
-  <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" /></a>  
-  <a href="https://www.spyder-ide.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/spyder.png" alt="Spyder" height="50" /></a>
-  <a href="https://www.kaggle.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kaggle.png" alt="Kaggle" height="50" /></a>
-  <a href="https://pjreddie.com/darknet/yolo/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/yolo.svg" alt="YOLO" height="50" /></a>
+<a href="https://jupyter.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jupyterlab.png" alt="JupyterLab" height="50" /></a>
+<a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/numpy.svg" alt="NumPy" height="50" /></a>  
+<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pandas.svg" alt="Pandas" height="50" /></a>  
+<a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scikit_learn.svg" alt="Scikit-Learn" height="50" /></a>  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" /></a>  
+<a href="https://www.spyder-ide.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/spyder.png" alt="Spyder" height="50" /></a>
+<a href="https://www.kaggle.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kaggle.png" alt="Kaggle" height="50" /></a>
+<a href="https://pjreddie.com/darknet/yolo/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/yolo.svg" alt="YOLO" height="50" /></a>
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
 <br/>  
 
