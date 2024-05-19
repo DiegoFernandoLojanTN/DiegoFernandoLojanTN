@@ -80,8 +80,7 @@
 
 ### Data Science & Machine Learning
 <div align="center"> 
-  <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-  <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
+
   <a href="https://jupyter.org/" target="_blank">
   <img style="margin: 10px" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/jupyter_badge.svg" alt="JupyterLab" height="50" />
 </a>
