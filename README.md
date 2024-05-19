@@ -77,7 +77,7 @@
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
 </div>
 
-<tr><td valign="top" width="33%">
+<tr><td valign="top" width="100%">
 
 ### Data Science & Machine Learning
 <div align="center"> 
