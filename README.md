@@ -24,7 +24,7 @@
 
 
 ## My Skill Set  / Habilidades
-<table><tr><td valign="top" width="25%">
+<table><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
@@ -76,6 +76,8 @@
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
 </div>
+
+<tr><td valign="top" width="33%">
 
 ### Data Science & Machine Learning
 <div align="center"> 
