@@ -1,6 +1,5 @@
 <div align="right">
 <a style="text-decoration: none" target="_blank"href="https://github.com/DiegoFernandoLojanTN"> 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=DiegoFernandoLojanTN&left_color=gray&right_color=blue&left_text=Coders%20visitors">
 </a>
 
 <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/diego-fernando-lojan-tenesaca-536615272/" > 
@@ -36,13 +35,13 @@
       <td align="center">
        <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
        <img src="" width="90" alt=""/><br>
-        <img src="https://thumbs4.imagebam.com/b9/01/da/MESRJ8V_t.png" height="20" alt="Mx.png"/><br>
+        <img src="" height="20" alt="Mx.png"/><br>
         <strong>...</strong><br><strong>...</strong> Continuara....<br>
       </td>
       <td align="center">
        <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
        <img src="" width="90" alt=""/><br>
-        <img src="https://thumbs4.imagebam.com/c8/fe/34/MESRJ8W_t.png" height="20" alt="Usa.png"/><br>
+        <img src="" height="20" alt="Usa.png"/><br>
         <strong>...</strong><br><strong>...</strong> Continuara....<br>
       </td>
     </tr>
