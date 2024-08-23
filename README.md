@@ -106,7 +106,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Otras Herramientas:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=jupyter,Postman,Insomnia,TensorFlow,PyTorch,Scikit-learn,Keras,WEKA"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=tensorflow,sklearn"/></td>
     </tr>
 </table>
 <br>
