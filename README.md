@@ -2,6 +2,10 @@
 <a style="text-decoration: none" target="_blank"href="https://github.com/DiegoFernandoLojanTN"> 
 </a>
 
+<div align="center">
+<img src="https://i.postimg.cc/43ySBccx/Screenshot-20191226-203334-Whats-App.jpg" align="center" style="width: 20%" />
+</div>  
+
 <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/diego-fernando-lojan-tenesaca-536615272/" > 
 <img width="70"src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
 </a>
