@@ -86,7 +86,7 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,anaconda,opencv,java,php,laravel,cs,django,flask,cs"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,anaconda,opencv,java,php,laravel,cs,django,flask,cs,hibernate"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
@@ -106,7 +106,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Otras Herramientas:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=tensorflow,sklearn"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=tensorflow,sklearn,d3,matlab,pytorch,mint,linux,latex"/></td>
     </tr>
 </table>
 <br>
