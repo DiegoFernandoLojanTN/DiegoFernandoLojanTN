@@ -14,7 +14,7 @@
 <h2>📖 | Acerca de mi</h2> 
 🌐 Actualmente, estoy cursando el 9no ciclo de la carrera de <strong>Ingeniería en Ciencias de la Computación</strong> en la Universidad Nacional de Loja, especializándome en <strong>Sistemas inteligentes</strong>. Como desarrollador independiente, me enfoco en data analysis, machine learning, computer vision, y human-computer interaction, siempre buscando estar a la vanguardia de las nuevas tecnologías. Combino mi formación académica con experiencias prácticas personales, lo que me permite contribuir a proyectos innovadores y explorar continuamente soluciones tecnológicas que impulsen el progreso 🚀.
 
-<div align="center">
+<div align="center" style="color: black;>
   <br>
   <img alt="Contribuciones" src="https://github.com/DiegoFernandoLojanTN/DiegoFernandoLojanTN/blob/output/github-contribution-grid-snake.gif" />
   <br/>
