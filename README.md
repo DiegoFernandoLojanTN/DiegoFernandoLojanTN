@@ -14,7 +14,7 @@
 <h2>📖 | Acerca de mi</h2> 
 🌐 Actualmente, estoy cursando el 9no ciclo de la carrera de <strong>Ingeniería en Ciencias de la Computación</strong> en la Universidad Nacional de Loja, especializándome en <strong>Sistemas inteligentes</strong>. Como desarrollador independiente, me enfoco en data analysis, machine learning, computer vision, y human-computer interaction, siempre buscando estar a la vanguardia de las nuevas tecnologías. Combino mi formación académica con experiencias prácticas personales, lo que me permite contribuir a proyectos innovadores y explorar continuamente soluciones tecnológicas que impulsen el progreso 🚀.
 
-<div align="center" style="color: black;>
+<div align="center">
   <br>
   <img alt="Contribuciones" src="https://github.com/DiegoFernandoLojanTN/DiegoFernandoLojanTN/blob/output/github-contribution-grid-snake.gif" />
   <br/>
@@ -51,16 +51,16 @@
 <h2>🔥| My contribution streak</h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codediaz#version3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoFernandoLojanTN#version3"/>
   </a>
 </p>
 
 <h2>⭐ | Github Stats </h2>
 
 <div align="center">
-<a href="https://github.com/codediaz">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codediaz&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codediaz&layout=compact&langs_count=7&theme=default"/></a>
+<a href="https://github.com/DiegoFernandoLojanTN">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoFernandoLojanTN&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoFernandoLojanTN&layout=compact&langs_count=7&theme=default"/></a>
 </div>
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
