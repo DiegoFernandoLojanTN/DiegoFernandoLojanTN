@@ -48,14 +48,14 @@
   </table>
 </div>
 
-<h2>🔥| My contribution streak</h2>
+<h2>🔥 |Mi racha de contribuciones</h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoFernandoLojanTN#version3"/>
   </a>
 </p>
 
-<h2>⭐ | Github Stats </h2>
+<h2>⭐ | Estadísticas de Github </h2>
 
 <div align="center">
 <a href="https://github.com/DiegoFernandoLojanTN">
@@ -63,7 +63,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoFernandoLojanTN&layout=compact&langs_count=7&theme=default"/></a>
 </div>
 
-<h2>🛠️ | Languages, Frameworks, and Tools </h2>
+<h2>🛠️ | Lenguajes, Frameworks, y Herramientas </h2>
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
