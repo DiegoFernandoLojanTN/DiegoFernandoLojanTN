@@ -20,8 +20,22 @@
   <br/>
 </div>
 
+
+<h2>🎰 | Actividades </h2>
+<ul>
+  <li>🔭 Actualmente estoy realizando un estudio de datos como parte de Data Mining/Machine Learning: <a href="https://github.com/DiegoFernandoLojanTN/MachineLearning_Hub.git" target="_blank">MLX</a></li>
+  <li>📚 Estoy en proceso de completar mi grado en Ingeniería en Ciencias de la Computación, con una especialización en Sistemas Inteligentes.</li>
+  <li>🎓 Planifico continuar mis estudios con una maestría en Sistemas Inteligentes y otra en Educación.</li>
+  <li>💻 Me dedico a explorar nuevas tecnologías y a mejorar mis habilidades en desarrollo de software y análisis de datos.</li>
+  <li>💼 Aqui puedes ver mi Portafolio: [PortFolio](https://diegofernandolojantn.github.io/PortfolioLD/).</li>
+  <li>🕹️ Me gusta jugar League of Legends como usuario (Lautish).</li>
+</ul>
+<br>
+
+
 <h2>📚 | Educación</h2>
 <p>Como ingeniero en formación, mi trayectoria académica refleja un compromiso constante con el aprendizaje y la excelencia. Actualmente, estoy en proceso de graduarme y ya estoy planificando mis próximos pasos: una maestría en <strong>Sistemas Inteligentes</strong> y otra en <strong>Educación</strong>. Mi objetivo es no solo profundizar en la innovación tecnológica, sino también contribuir al desarrollo de las nuevas generaciones, inspirando y guiando a futuros profesionales.</p><br>
+
 
 <div align="center">
   <table style="margin-left: auto; margin-right: auto;">
@@ -93,6 +107,4 @@
 <br>
 
 ------
-**Credits :** [codediaz](https://github.com/codediaz)
 
-**Last Edited on:** 06/04/2024
