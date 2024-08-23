@@ -35,13 +35,13 @@
       <td align="center">
        <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
        <img src="" width="90" alt=""/><br>
-        <img src="" height="20" alt="Mx.png"/><br>
+        <img src="" height="20" alt=""/><br>
         <strong>...</strong><br><strong>...</strong> Continuara....<br>
       </td>
       <td align="center">
        <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
        <img src="" width="90" alt=""/><br>
-        <img src="" height="20" alt="Usa.png"/><br>
+        <img src="" height="20" alt=""/><br>
         <strong>...</strong><br><strong>...</strong> Continuara....<br>
       </td>
     </tr>
