@@ -2,15 +2,16 @@
 <a style="text-decoration: none" target="_blank"href="https://github.com/DiegoFernandoLojanTN"> 
 </a>
 
-<div align="center">
-<img src="https://i.postimg.cc/43ySBccx/Screenshot-20191226-203334-Whats-App.jpg" align="center" style="width: 20%" />
-</div>  
-
 <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/diego-fernando-lojan-tenesaca-536615272/" > 
 <img width="70"src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
 </a>
 </div>
 
+<br>
+
+<div align="center">
+<img src="https://i.postimg.cc/43ySBccx/Screenshot-20191226-203334-Whats-App.jpg" align="center" style="width: 10%" />
+</div>  
 <br>
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hola+Tonotos!+👋;+Soy+Diego+Lojan!;" />
