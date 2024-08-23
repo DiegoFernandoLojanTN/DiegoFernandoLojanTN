@@ -1,6 +1,6 @@
 <div align="right">
 <a style="text-decoration: none" target="_blank"href="https://github.com/DiegoFernandoLojanTN"> 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=DiegoFernandoLojanTN.DiegoFernandoLojanTN&left_color=gray&right_color=blue&left_text=Coders%20visitors">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=DiegoFernandoLojanTN&left_color=gray&right_color=blue&left_text=Coders%20visitors">
 </a>
 
 <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/diego-fernando-lojan-tenesaca-536615272/" > 
@@ -13,7 +13,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hola+Tonotos!+👋;+Soy+Diego+Lojan!;" />
 
 <h2>📖 | Acerca de mi</h2> 
-🌐 Actualmente, estoy cursando el 9no ciclo de la carrera de **Ingeniería en Ciencias de la Computación** en la Universidad Nacional de Loja, especializándome en **Sistemas inteligentes**. Como desarrollador independiente, me enfoco en data analysis, machine learning, computer vision, y human-computer interaction, siempre buscando estar a la vanguardia de las nuevas tecnologías. Combino mi formación académica con experiencias prácticas personales, lo que me permite contribuir a proyectos innovadores y explorar continuamente soluciones tecnológicas que impulsen el progreso 🚀.
+🌐 Actualmente, estoy cursando el 9no ciclo de la carrera de <strong>Ingeniería en Ciencias de la Computación</strong> en la Universidad Nacional de Loja, especializándome en <strong>Sistemas inteligentes</strong>. Como desarrollador independiente, me enfoco en data analysis, machine learning, computer vision, y human-computer interaction, siempre buscando estar a la vanguardia de las nuevas tecnologías. Combino mi formación académica con experiencias prácticas personales, lo que me permite contribuir a proyectos innovadores y explorar continuamente soluciones tecnológicas que impulsen el progreso 🚀.
 
 <div align="center">
   <br>
@@ -22,7 +22,7 @@
 </div>
 
 <h2>📚 | Educación</h2>
-<p>Como ingeniero en formación, mi trayectoria académica refleja un compromiso constante con el aprendizaje y la excelencia. Actualmente, estoy en proceso de graduarme y ya estoy planificando mis próximos pasos: una maestría en **Sistemas Inteligentes** y otra en **Educación**. Mi objetivo es no solo profundizar en la innovación tecnológica, sino también contribuir al desarrollo de las nuevas generaciones, inspirando y guiando a futuros profesionales.</p><br>
+<p>Como ingeniero en formación, mi trayectoria académica refleja un compromiso constante con el aprendizaje y la excelencia. Actualmente, estoy en proceso de graduarme y ya estoy planificando mis próximos pasos: una maestría en <strong>Sistemas Inteligentes</strong> y otra en <strong>Educación</strong>. Mi objetivo es no solo profundizar en la innovación tecnológica, sino también contribuir al desarrollo de las nuevas generaciones, inspirando y guiando a futuros profesionales.</p><br>
 
 <div align="center">
   <table style="margin-left: auto; margin-right: auto;">
