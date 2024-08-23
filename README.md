@@ -32,7 +32,7 @@
   <li>📚 Estoy en proceso de completar mi grado en Ingeniería en Ciencias de la Computación, con una especialización en Sistemas Inteligentes.</li>
   <li>🎓 Planifico continuar mis estudios con una maestría en Sistemas Inteligentes y otra en Educación.</li>
   <li>💻 Me dedico a explorar nuevas tecnologías y a mejorar mis habilidades en desarrollo de software y análisis de datos.</li>
-  <li>💼 Aqui puedes ver mi Portafolio: <a href="https://diegofernandolojantn.github.io/PortfolioLD/" target="_blank"></a></li>
+  <li>💼 Aquí puedes ver mi Portafolio: <a href="https://diegofernandolojantn.github.io/PortfolioLD/" target="_blank">Portfolio</a>
   <li>🕹️ Me gusta jugar League of Legends como usuario (Lautish).</li>
 </ul>
 <br>
