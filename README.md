@@ -102,11 +102,11 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab,bitbucket"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Otras Herramientas:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana,jupyter,Postman,Insomnia,TensorFlow,PyTorch,Scikit-learn,Keras,WEKA,YOLO (You Only Look Once)"/></td>
     </tr>
 </table>
 <br>
