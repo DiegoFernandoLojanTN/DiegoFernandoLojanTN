@@ -17,9 +17,13 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hola+Tonotos!+👋;+Soy+Diego+Lojan!;" />
 
 <h2>📖 | Acerca de mi</h2> 
-<p style="text-align: justify;">
 🌐 Actualmente, estoy cursando el 9no ciclo de la carrera de <strong>Ingeniería en Ciencias de la Computación</strong> en la Universidad Nacional de Loja, especializándome en <strong>Sistemas inteligentes</strong>. Como desarrollador independiente, me enfoco en data analysis, machine learning, computer vision, y human-computer interaction, siempre buscando estar a la vanguardia de las nuevas tecnologías. Combino mi formación académica con experiencias prácticas personales, lo que me permite contribuir a proyectos innovadores y explorar continuamente soluciones tecnológicas que impulsen el progreso 🚀.
-</p>
+
+<div style="text-align: justify;">
+    <p>
+        Este es un párrafo de texto que está alineado justificadamente. Esto significa que el texto se alinea a ambos márgenes, creando una apariencia de bloque uniforme. Puedes usar esta propiedad para hacer que los textos largos se vean más ordenados y profesionales en tu página web.
+    </p>
+</div>
 
 
 <div align="center">
