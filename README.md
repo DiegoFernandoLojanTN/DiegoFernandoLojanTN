@@ -1,115 +1,109 @@
-<div align="right">
-<a style="text-decoration: none" target="_blank"href="https://github.com/DiegoFernandoLojanTN"> 
-</a>
 
-<a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/diego-fernando-lojan-tenesaca-536615272/" > 
-<img width="70"src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
-</a>
-</div>
+<h1 align="center">Diego Fernando Lojan Tenesaca</h1>
 
-<br>
-
-<div align="center">
-<img src="https://i.postimg.cc/43ySBccx/Screenshot-20191226-203334-Whats-App.jpg" align="center" style="width: 10%" />
-</div>  
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hola+Tonotos!+👋;+Soy+Diego+Lojan!;" />
-
-<h2>📖 | Acerca de mi</h2> 
-🌐 Actualmente, estoy cursando el 9no ciclo de la carrera de <strong>Ingeniería en Ciencias de la Computación</strong> en la Universidad Nacional de Loja, especializándome en <strong>Sistemas inteligentes</strong>. Como desarrollador independiente, me enfoco en data analysis, machine learning, computer vision, y human-computer interaction, siempre buscando estar a la vanguardia de las nuevas tecnologías. Combino mi formación académica con experiencias prácticas personales, lo que me permite contribuir a proyectos innovadores y explorar continuamente soluciones tecnológicas que impulsen el progreso 🚀.
-
-<div align="center">
-  <br>
-  <img alt="Contribuciones" src="https://github.com/DiegoFernandoLojanTN/DiegoFernandoLojanTN/blob/output/github-contribution-grid-snake.gif" />
-  <br/>
-</div>
-
-
-<h2>🎰 | Actividades </h2>
-<ul>
-  <li>🔭 Actualmente estoy realizando un estudio de datos como parte de Data Mining/Machine Learning: <a href="https://github.com/DiegoFernandoLojanTN/MachineLearning_Hub.git" target="_blank">MLX</a></li>
-  <li>📚 Estoy en proceso de completar mi grado en Ingeniería en Ciencias de la Computación, con una especialización en Sistemas Inteligentes.</li>
-  <li>🎓 Planifico continuar mis estudios con una maestría en Sistemas Inteligentes y otra en Educación.</li>
-  <li>💻 Me dedico a explorar nuevas tecnologías y a mejorar mis habilidades en desarrollo de software y análisis de datos.</li>
-  <li>💼 Aquí puedes ver mi Portafolio: <a href="https://diegofernandolojantn.github.io/PortfolioLD/" target="_blank">Portfolio</a>
-  <li>🕹️ Me gusta jugar League of Legends como usuario (Lautish).</li>
-</ul>
-<br>
-
-
-<h2>📚 | Educación</h2>
-<p>Como ingeniero en formación, mi trayectoria académica refleja un compromiso constante con el aprendizaje y la excelencia. Actualmente, estoy en proceso de graduarme y ya estoy planificando mis próximos pasos: una maestría en <strong>Sistemas Inteligentes</strong> y otra en <strong>Educación</strong>. Mi objetivo es no solo profundizar en la innovación tecnológica, sino también contribuir al desarrollo de las nuevas generaciones, inspirando y guiando a futuros profesionales.</p><br>
-
-
-<div align="center">
-  <table style="margin-left: auto; margin-right: auto;">
-    <tr>
-      <td align="center">
-        <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="1.png"/>
-        <img src="https://thumbs4.imagebam.com/e5/2a/33/MEVFFOK_t.png" width="90" alt="UNL.png"/><br>           
-        <img src="https://thumbs4.imagebam.com/d7/6e/91/MESRJ8U_t.png" height="20" alt="Ec.png"/><br>
-        <strong>UNL</strong><br><strong>.</strong> Ingeniero En Computación<br>
-      </td>
-      <td align="center">
-       <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
-       <img src="" width="90" alt=""/><br>
-        <img src="" height="20" alt=""/><br>
-        <strong>...</strong><br><strong>...</strong> Continuara....<br>
-      </td>
-      <td align="center">
-       <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
-       <img src="" width="90" alt=""/><br>
-        <img src="" height="20" alt=""/><br>
-        <strong>...</strong><br><strong>...</strong> Continuara....<br>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h2>🔥 |Mi racha de contribuciones</h2>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoFernandoLojanTN#version3"/>
+  <strong>Egresado en Ingeniería en Computación</strong><br>
+   Sistemas Inteligentes y Desarrollo de Software.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/diego-fernando-lojan-tenesaca-536615272/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:diego@example.com">
+    <img src="https://img.shields.io/badge/Gmail-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://diegofernandolojantn.github.io/PortfolioLD/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-Web-blueviolet?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
 
-<h2>⭐ | Estadísticas de Github </h2>
+---
 
-<div align="center">
-<a href="https://github.com/DiegoFernandoLojanTN">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoFernandoLojanTN&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoFernandoLojanTN&layout=compact&langs_count=7&theme=default"/></a>
-</div>
+### 🧠 Acerca de mí
 
-<h2>🛠️ | Lenguajes, Frameworks, y Herramientas </h2>
-<table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,anaconda,opencv,java,php,laravel,cs,django,flask,cs,hibernate"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,html,css,js,ts,angular,vue,sass,webpack,jquery"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,aws,azure,kubernetes"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,graphql,mongodb,redis,mariadb"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Otras Herramientas:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=tensorflow,sklearn,d3,matlab,pytorch,mint,linux,latex"/></td>
-    </tr>
-</table>
-<br>
+Egresado de la carrera de **Ingeniería en Ciencias de la Computación** (Universidad Nacional de Loja), poseo experiencia en:
+-   🤖 **Machine Learning** y **Deep Learning**
+-   🖼️ **Visión por Computadora**
+-   🗣️ **Procesamiento de Lenguaje Natural (NLP)**
+-   💻 **Desarrollo de software**
+-   📊 **Análisis de datos**
+---
+### 🧰 Tecnologías y Herramientas
 
-------
+#### 💻 Lenguajes de Programación
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,php,javascript,c,html,css,r,matlab,mysql" />
+</p>
+
+#### ⚙️ Frameworks & Librerías
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,angular,django,flask,nodejs,express,tensorflow,pytorch,sklearn" />
+  <br>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Seaborn-2D3F72?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Matplotlib-0C7BDC?style=flat&logo=python&logoColor=white" />
+</p>
+
+
+
+#### 🧩 ORMs y Bases de Datos
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-SQLAlchemy-E34F26?style=flat&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Django%20ORM-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Mongoose-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Sequelize-399AF7?style=flat&logo=sequelize&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Eloquent-E95420?style=flat&logo=laravel&logoColor=white" />
+</p>
+
+---
+
+### 🧑‍💻 Entornos de Desarrollo y Herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,eclipse,anaconda,sublime,postman,selenium,docker,linux,latex" />
+</p>
+
+#### 🔁 Control de versiones
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,gitlab" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoFernandoLojanTN&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoFernandoLojanTN&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+### 🚀 Proyectos Personales 
+
+- 🔍 [**MLX - Hub de aprendizaje automático**](https://github.com/DiegoFernandoLojanTN/MachineLearning_Hub.git)  
+- 🧠 [**Análisis de sentimientos y NLP**](https://github.com/DiegoFernandoLojanTN/TIC_Analisis_Sentimientos_SVM_OPTUNA.git)
+
+---
+
+### 🎓 Educación
+
+🎓 Universidad Nacional de Loja — **Ingeniería en Ciencias de la Computación**  
+📍 Loja, Ecuador  
+
+---
+
+### 📫 Contacto
+
+- 🌐 Sitio Web: [diegofernandolojantn.github.io/PortfolioLD](https://diegofernandolojantn.github.io/PortfolioLD/)
+- 💼 LinkedIn: [linkedin.com/in/diego-fernando-lojan-tenesaca](https://www.linkedin.com/in/diego-fernando-lojan-tenesaca-536615272/)
+- 📧 Correo: fernando.lojan10@gmail.com
+
+---
